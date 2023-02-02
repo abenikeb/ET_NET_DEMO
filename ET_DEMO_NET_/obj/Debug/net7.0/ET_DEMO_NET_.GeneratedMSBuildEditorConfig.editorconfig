@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ET_DEMO_NET_
+build_property.RootNamespace = ET_DEMO_NET_
+build_property.ProjectDir = C:\Users\awx1210953\Desktop\Projects\ET_DEMO_NET_\ET_DEMO_NET_\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\awx1210953\Desktop\Projects\ET_DEMO_NET_\ET_DEMO_NET_
+build_property._RazorSourceGeneratorDebug = 
